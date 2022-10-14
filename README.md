@@ -12,10 +12,10 @@ VSCode or Android Studio
 
 
 ## App functionality screenshots
-![image](https://user-images.githubusercontent.com/96309032/195922507-c0e8a2b3-efc4-4f43-84e4-072442638161.png)
-![image](https://user-images.githubusercontent.com/96309032/195922715-1d6c382b-34b6-4538-b07b-b956902ef48e.png)
-![image](https://user-images.githubusercontent.com/96309032/195922868-7876b183-dada-4cfa-ab9b-84c7d7a31f30.png)
-![image](https://user-images.githubusercontent.com/96309032/195923622-bb1870ee-1cb2-4905-be07-9ab647b1c2df.png)
+![image](https://user-images.githubusercontent.com/96309032/195932973-89c29eda-98f7-4696-a82b-6121e5c64df7.png)
+![image](https://user-images.githubusercontent.com/96309032/195933112-2c94c322-49eb-4102-9c35-e031d75f9438.png)
+![image](https://user-images.githubusercontent.com/96309032/195933309-eb3f1b69-c7f4-4b9f-ad7d-3e339dcd1183.png)
+![image](https://user-images.githubusercontent.com/96309032/195933537-78e0207b-9841-4e68-84cc-37c9a898e994.png)
 
 
 
