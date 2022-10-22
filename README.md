@@ -1,6 +1,6 @@
 # The Bro Code
 
-An Android group chat application made using flutter where you can chat with your friends or bros<br>
+A real time group chat application made using flutter with login and register feature. All the chats and user data of the users of the app is stored in the Firebase Real time Database<br>
 Author - [@dubey2709](https://github.com//dubey2709)
 ## Tech Stack
 
@@ -17,7 +17,15 @@ VSCode or Android Studio
 ![image](https://user-images.githubusercontent.com/96309032/195933309-eb3f1b69-c7f4-4b9f-ad7d-3e339dcd1183.png)
 ![image](https://user-images.githubusercontent.com/96309032/195933537-78e0207b-9841-4e68-84cc-37c9a898e994.png)
 
-
+## Packages Used (pub.dev) :
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  firebase_auth: ^3.6.1
+  firebase_core: ^1.20.0
+  cloud_firestore: ^3.4.2
+  modal_progress_hud_nsn: ^0.2.1
+  date_time_format: ^2.0.1
+  intl: ^0.17.0
 
 ## How to Run Locally?
 
@@ -33,7 +41,7 @@ Go to your current project directory
   cd my-project
 ```
 
-Install dependencies
+Install dependencies and run the command in the terminal
 
 ```bash
    flutter pub get
