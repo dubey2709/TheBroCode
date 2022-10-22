@@ -18,14 +18,14 @@ VSCode or Android Studio
 ![image](https://user-images.githubusercontent.com/96309032/195933537-78e0207b-9841-4e68-84cc-37c9a898e994.png)
 
 ## Packages Used (pub.dev) :
-  cupertino_icons: ^1.0.2
-  animated_text_kit: ^4.2.2
-  firebase_auth: ^3.6.1
-  firebase_core: ^1.20.0
-  cloud_firestore: ^3.4.2
-  modal_progress_hud_nsn: ^0.2.1
-  date_time_format: ^2.0.1
-  intl: ^0.17.0
+  cupertino_icons: ^1.0.2<br>
+  animated_text_kit: ^4.2.2<br>
+  firebase_auth: ^3.6.1<br>
+  firebase_core: ^1.20.0<br>
+  cloud_firestore: ^3.4.2<br>
+  modal_progress_hud_nsn: ^0.2.1<br>
+  date_time_format: ^2.0.1<br>
+  intl: ^0.17.0<br>
 
 ## How to Run Locally?
 
