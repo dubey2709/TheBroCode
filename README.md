@@ -32,7 +32,7 @@ VSCode or Android Studio
 Clone the project
 
 ```bash
-  git clone https://github.com/dubey2709/TheBroCode
+  git clone https://github.com/dubey2709/TheBroCode.git
 ```
 
 Go to your current project directory
